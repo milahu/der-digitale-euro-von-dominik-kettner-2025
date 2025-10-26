@@ -13,7 +13,6 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 284 1004 2856 3743">
     <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 284 1004 2673 1353">
      <span class='ocr_line' id='line_1_1' title="bbox 284 1004 2672 1075; baseline 0.002 -27; x_size 60; x_descenders 14; x_ascenders 14">
-      <span class='ocrx_word' id='word_1_1' title='bbox 284 1067 288 1075; x_wconf 19'>)</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 477 1006 606 1050; x_wconf 91'>»Der</span>
       <span class='ocrx_word' id='word_1_3' title='bbox 634 1004 827 1064; x_wconf 96'>digitale</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 858 1006 982 1050; x_wconf 95'>Euro</span>
@@ -71,8 +70,7 @@
       <span class='ocrx_word' id='word_1_50' title='bbox 1944 1294 2170 1340; x_wconf 96'>schützen</span>
       <span class='ocrx_word' id='word_1_51' title='bbox 2186 1294 2281 1340; x_wconf 96'>und</span>
       <span class='ocrx_word' id='word_1_52' title='bbox 2297 1309 2356 1340; x_wconf 96'>zu</span>
-      <span class='ocrx_word' id='word_1_53' title='bbox 2370 1294 2670 1340; x_wconf 0'>bewahren.</span>
-      <span class='ocrx_word' id='word_1_54' title='bbox 2644 1289 2674 1358; x_wconf 44' lang='eng'>«</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 2370 1294 2671 1340; x_wconf 0'>bewahren.«</span>
      </span>
     </p>
 
@@ -257,7 +255,6 @@
       <span class='ocrx_word' id='word_1_201' title='bbox 2064 3591 2274 3644; x_wconf 92' lang='deu'>HKCM,</span>
       <span class='ocrx_word' id='word_1_202' title='bbox 2298 3590 2553 3636; x_wconf 92' lang='deu'>Podcaster</span>
       <span class='ocrx_word' id='word_1_203' title='bbox 2572 3590 2669 3636; x_wconf 96' lang='deu'>und</span>
-      <span class='ocrx_word' id='word_1_204' title='bbox 2854 3572 2856 3575; x_wconf 79'>|</span>
      </span>
      <span class='ocr_line' id='line_1_21' title="bbox 1722 3685 2670 3743; baseline 0 -13; x_size 58; x_descenders 13; x_ascenders 14">
       <span class='ocrx_word' id='word_1_205' title='bbox 1722 3685 1939 3743; x_wconf 90'>Spiegel-</span>
