@@ -130,12 +130,12 @@
      </span>
      <span class='ocr_line' id='line_1_11' title="bbox 410 1609 2606 1684; baseline -0 -17; x_size 74; x_descenders 17; x_ascenders 18">
       <span class='ocrx_word' id='word_1_94' title='bbox 410 1621 638 1684; x_wconf 93'>gesagt:</span>
-      <span class='ocrx_word' id='word_1_95' title='bbox 676 1613 836 1667; x_wconf 62'>»Was</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 676 1613 836 1667; x_wconf 62'>›Was</span>
       <span class='ocrx_word' id='word_1_96' title='bbox 866 1610 1149 1667; x_wconf 92'>möchten</span>
       <span class='ocrx_word' id='word_1_97' title='bbox 1182 1612 1281 1667; x_wconf 96'>Sie</span>
       <span class='ocrx_word' id='word_1_98' title='bbox 1311 1609 1405 1666; x_wconf 96'>für</span>
       <span class='ocrx_word' id='word_1_99' title='bbox 1433 1610 1539 1666; x_wconf 93' lang='eng'>das</span>
-      <span class='ocrx_word' id='word_1_100' title='bbox 1569 1612 1788 1666; x_wconf 76'>Boot?&lt;</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 1569 1612 1788 1666; x_wconf 76'>Boot?‹</span>
       <span class='ocrx_word' id='word_1_101' title='bbox 1821 1610 1962 1666; x_wconf 96'>Und</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 1990 1610 2087 1666; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 2117 1613 2266 1666; x_wconf 96' lang='eng'>Frau</span>
@@ -145,7 +145,7 @@
      <span class='ocr_line' id='line_1_12' title="bbox 409 1723 2728 1799; baseline -0 -17; x_size 74; x_descenders 17; x_ascenders 18">
       <span class='ocrx_word' id='word_1_106' title='bbox 409 1725 680 1799; x_wconf 96'>möglich</span>
       <span class='ocrx_word' id='word_1_107' title='bbox 703 1736 930 1799; x_wconf 93' lang='eng'>gesagt:</span>
-      <span class='ocrx_word' id='word_1_108' title='bbox 961 1725 1199 1782; x_wconf 84' lang='eng'>&gt;Geben</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 961 1725 1199 1782; x_wconf 84' lang='eng'>›Geben</span>
       <span class='ocrx_word' id='word_1_109' title='bbox 1224 1728 1323 1782; x_wconf 96'>Sie</span>
       <span class='ocrx_word' id='word_1_110' title='bbox 1346 1727 1460 1781; x_wconf 96'>mir</span>
       <span class='ocrx_word' id='word_1_111' title='bbox 1481 1725 1606 1781; x_wconf 96'>drei</span>
@@ -171,15 +171,14 @@
       <span class='ocrx_word' id='word_1_127' title='bbox 410 1956 569 2014; x_wconf 96'>denn</span>
       <span class='ocrx_word' id='word_1_128' title='bbox 593 1974 806 2014; x_wconf 96'>unsere</span>
       <span class='ocrx_word' id='word_1_129' title='bbox 832 1959 908 2014; x_wconf 92'>ist</span>
-      <span class='ocrx_word' id='word_1_130' title='bbox 931 1956 1225 2030; x_wconf 90'>kaputt.&lt;«</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 931 1956 1225 2030; x_wconf 90'>kaputt.‹«</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 531 2071 1252 2129">
      <span class='ocr_line' id='line_1_15' title="bbox 531 2071 1252 2129; baseline -0.001 -4; x_size 73.928101; x_descenders 16.928102; x_ascenders 18">
       <span class='ocrx_word' id='word_1_131' title='bbox 531 2075 718 2129; x_wconf 93'>»Eine</span>
-      <span class='ocrx_word' id='word_1_132' title='bbox 745 2071 1252 2129; x_wconf 0'>Kaffeemühle?</span>
-      <span class='ocrx_word' id='word_1_133' title='bbox 1216 2067 1254 2150; x_wconf 0'>«</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 745 2071 1255 2129; x_wconf 0'>Kaffeemühle?«</span>
      </span>
     </p>
 
@@ -353,9 +352,7 @@
 
     <p class='ocr_par' id='par_1_9' lang='deu' title="bbox 529 3789 885 3843">
      <span class='ocr_line' id='line_1_30' title="bbox 529 3789 885 3843; baseline 0 -4; x_size 69.494049; x_descenders 16.494049; x_ascenders 15">
-      <span class='ocrx_word' id='word_1_259' title='bbox 529 3809 562 3839; x_wconf 92'>»</span>
-      <span class='ocrx_word' id='word_1_260' title='bbox 567 3789 885 3843; x_wconf 19'>Warum?</span>
-      <span class='ocrx_word' id='word_1_261' title='bbox 850 3785 886 3864; x_wconf 19'>«</span>
+      <span class='ocrx_word' id='word_1_260' title='bbox 527 3789 885 3843; x_wconf 19'>»Warum?«</span>
      </span>
     </p>
 
@@ -389,7 +386,7 @@
       <span class='ocrx_word' id='word_1_285' title='bbox 2500 4013 2603 4070; x_wconf 96'>der</span>
      </span>
      <span class='ocr_line' id='line_1_33' title="bbox 394 4128 2600 4201; baseline -0.001 -16; x_size 73; x_descenders 17; x_ascenders 18">
-      <span class='ocrx_word' id='word_1_286' title='bbox 394 4129 586 4185; x_wconf 63' lang='eng'>‘Hand</span>
+      <span class='ocrx_word' id='word_1_286' title='bbox 409 4129 586 4185; x_wconf 63' lang='eng'>Hand</span>
       <span class='ocrx_word' id='word_1_287' title='bbox 609 4129 810 4185; x_wconf 96'>halten</span>
       <span class='ocrx_word' id='word_1_288' title='bbox 835 4129 1011 4185; x_wconf 96'>kann.</span>
       <span class='ocrx_word' id='word_1_289' title='bbox 1041 4131 1245 4184; x_wconf 96'>Damit</span>
