@@ -119,7 +119,7 @@
      <span class='ocr_line' id='line_1_11' title="bbox 493 1578 2690 1652; baseline 0 -17; x_size 74; x_descenders 17; x_ascenders 18">
       <span class='ocrx_word' id='word_1_76' title='bbox 493 1578 721 1636; x_wconf 92'>schäfte</span>
       <span class='ocrx_word' id='word_1_77' title='bbox 743 1594 945 1652; x_wconf 93'>sagen:</span>
-      <span class='ocrx_word' id='word_1_78' title='bbox 975 1581 1125 1635; x_wconf 39'>&gt;»Nur</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 975 1581 1125 1635; x_wconf 39'>›Nur</span>
       <span class='ocrx_word' id='word_1_79' title='bbox 1144 1579 1302 1636; x_wconf 96'>noch</span>
       <span class='ocrx_word' id='word_1_80' title='bbox 1322 1582 1431 1636; x_wconf 96'>mit</span>
       <span class='ocrx_word' id='word_1_81' title='bbox 1451 1582 1629 1636; x_wconf 96'>Karte</span>
@@ -131,7 +131,7 @@
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 493 1694 2690 1768; baseline 0 -16; x_size 74; x_descenders 17; x_ascenders 18">
       <span class='ocrx_word' id='word_1_87' title='bbox 493 1694 631 1768; x_wconf 93' lang='eng'>geld</span>
-      <span class='ocrx_word' id='word_1_88' title='bbox 660 1695 865 1752; x_wconf 89' lang='eng'>mehr.«</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 660 1695 865 1752; x_wconf 89' lang='eng'>mehr.‹</span>
       <span class='ocrx_word' id='word_1_89' title='bbox 900 1697 1111 1752; x_wconf 96'>Genau</span>
       <span class='ocrx_word' id='word_1_90' title='bbox 1141 1695 1464 1768; x_wconf 96'>deswegen</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 1492 1694 1741 1752; x_wconf 96'>bezahle</span>
@@ -344,7 +344,7 @@
       <span class='ocrx_word' id='word_1_249' title='bbox 1956 3637 2091 3694; x_wconf 96' lang='eng'>sehr</span>
       <span class='ocrx_word' id='word_1_250' title='bbox 2110 3637 2233 3694; x_wconf 96'>viel</span>
       <span class='ocrx_word' id='word_1_251' title='bbox 2254 3637 2511 3710; x_wconf 92'>billiger:</span>
-      <span class='ocrx_word' id='word_1_252' title='bbox 2542 3640 2689 3693; x_wconf 42'>&gt;»Wir</span>
+      <span class='ocrx_word' id='word_1_252' title='bbox 2542 3640 2689 3693; x_wconf 42'>›Wir</span>
      </span>
      <span class='ocr_line' id='line_1_30' title="bbox 493 3751 2690 3819; baseline 0 -11; x_size 68; x_descenders 11; x_ascenders 18">
       <span class='ocrx_word' id='word_1_253' title='bbox 493 3752 690 3808; x_wconf 96'>bauen</span>
@@ -353,7 +353,7 @@
       <span class='ocrx_word' id='word_1_256' title='bbox 1121 3752 1262 3808; x_wconf 96'>weil</span>
       <span class='ocrx_word' id='word_1_257' title='bbox 1290 3752 1573 3808; x_wconf 95'>niemand</span>
       <span class='ocrx_word' id='word_1_258' title='bbox 1601 3754 1688 3808; x_wconf 93'>sie</span>
-      <span class='ocrx_word' id='word_1_259' title='bbox 1715 3751 2002 3808; x_wconf 66'>benutzt.«</span>
+      <span class='ocrx_word' id='word_1_259' title='bbox 1715 3751 2002 3808; x_wconf 66'>benutzt.‹</span>
       <span class='ocrx_word' id='word_1_260' title='bbox 2032 3751 2336 3808; x_wconf 92'>Verstehst</span>
       <span class='ocrx_word' id='word_1_261' title='bbox 2363 3752 2477 3808; x_wconf 96'>du?</span>
       <span class='ocrx_word' id='word_1_262' title='bbox 2507 3754 2584 3808; x_wconf 96'>Es</span>
