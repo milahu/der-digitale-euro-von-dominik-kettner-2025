@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/204.tiff"; bbox 0 0 3045 4681; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 295 3417 2773 3440">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 295 3417 2851 3440">
+     <span class='ocr_line' id='line_1_1' title="bbox 295 3417 2773 3440; baseline 0.001 -8; x_size 26.3456; x_descenders 6.2142859; x_ascenders 6.909091">
+      <span class='ocrx_word' id='word_1_1' title='bbox 413 3417 419 3422; x_wconf 0'>I</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 481 3435 484 3438; x_wconf 4'>I</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 909 3418 912 3421; x_wconf 3'>I</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1352 3417 1355 3420; x_wconf 3'>I</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1655 3435 1659 3438; x_wconf 0' lang='eng'>.</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 2082 3420 2087 3425; x_wconf 0'>8</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 2303 3418 2484 3440; x_wconf 17'>A</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 2784 3418 2851 3439; x_wconf 10' lang='eng'>TT</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/001.tiff"; bbox 0 0 3112 4727; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 283 222 2775 2419">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 283 222 2775 2419">
+     <span class='ocr_line' id='line_1_1' title="bbox 798 222 2278 331; baseline 0.002 -3; x_size 133.67375; x_descenders 28.673752; x_ascenders 27.851147">
+      <span class='ocrx_word' id='word_1_1' title='bbox 798 222 1489 329; x_wconf 93'>DOMINIK</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1554 225 2278 331; x_wconf 92'>KETTNER</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 283 2058 2775 2153; baseline -0.001 0; x_size 87.5; x_descenders 18.76923; x_ascenders 18.23077">
+      <span class='ocrx_word' id='word_1_3' title='bbox 283 2079 452 2152; x_wconf 93'>DIE</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 500 2058 952 2153; x_wconf 90' lang='eng'>GROBTE</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1002 2077 1738 2152; x_wconf 92'>ENTEIGNUNG</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1788 2078 1999 2151; x_wconf 96'>DER</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 2044 2077 2775 2151; x_wconf 96'>GESCHICHTE</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 733 2227 2330 2313; baseline -0.002 -17; x_size 86; x_descenders 19; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_8' title='bbox 733 2229 874 2296; x_wconf 96'>Wie</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 899 2228 1014 2296; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1040 2229 1195 2295; x_wconf 96'>EZB</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1219 2228 1342 2295; x_wconf 95'>mit</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1364 2229 1536 2295; x_wconf 95'>dem</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1562 2227 1888 2313; x_wconf 96'>digitalen</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1915 2228 2091 2294; x_wconf 96'>Euro</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 2116 2227 2330 2294; x_wconf 96'>deine</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 678 2331 2380 2419; baseline -0.002 -17; x_size 86; x_descenders 18; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_16' title='bbox 678 2334 995 2417; x_wconf 96'>Zukunft,</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1029 2334 1483 2419; x_wconf 96'>Ersparnisse</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1509 2335 1658 2401; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1680 2333 1972 2400; x_wconf 96'>Freiheit</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1991 2331 2380 2418; x_wconf 96'>gefährdet</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

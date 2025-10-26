@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/124.tiff"; bbox 0 0 3073 4710; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 370 255 2691 4451">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 370 255 2691 4451">
+     <span class='ocr_line' id='line_1_1' title="bbox 370 255 874 319; baseline 0.002 -14; x_size 64; x_descenders 14; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_1' title='bbox 370 258 469 306; x_wconf 96'>Der</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 492 255 716 319; x_wconf 96'>digitale</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 742 258 874 306; x_wconf 96'>Euro</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 479 545 2691 619; baseline 0 -17; x_size 68; x_descenders 11; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_4' title='bbox 479 545 636 602; x_wconf 96'>nach</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 660 545 863 602; x_wconf 96'>Dubai</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 886 545 1104 619; x_wconf 95'>bringt,</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1133 556 1290 602; x_wconf 96'>samt</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1314 548 1522 613; x_wconf 96'>Louis,</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1549 545 1655 602; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1676 545 1995 602; x_wconf 96'>weiterhin</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 2020 545 2199 602; x_wconf 96'>sechs</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 2224 545 2399 602; x_wconf 96'>Jahre</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 2419 548 2572 619; x_wconf 96'>jung</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 2597 548 2691 613; x_wconf 96'>ist,</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 479 660 768 717; baseline 0.003 -1; x_size 68.425224; x_descenders 11.425224; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_15' title='bbox 479 660 646 717; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 672 663 768 717; x_wconf 96'>36.</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 601 775 2373 849; baseline 0.001 -21; x_size 74; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_17' title='bbox 601 775 813 832; x_wconf 92'>»Alles</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 840 775 1058 849; x_wconf 92'>okay«,</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1088 790 1231 849; x_wconf 96'>sage</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1257 775 1374 843; x_wconf 92'>ich,</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1404 775 1560 832; x_wconf 92'>»hab</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1586 793 1696 832; x_wconf 96'>nur</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1721 775 1992 833; x_wconf 93'>schlecht</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 2017 780 2373 849; x_wconf 90'>geträumt.«</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 381 4398 500 4451; baseline 0 -1; x_size 61.443455; x_descenders 10.443454; x_ascenders 16.265343">
+      <span class='ocrx_word' id='word_1_25' title='bbox 381 4398 500 4451; x_wconf 95'>124</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

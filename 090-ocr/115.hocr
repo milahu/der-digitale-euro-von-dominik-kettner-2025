@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/115.tiff"; bbox 0 0 3093 4736; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 904 1196 2880 1821">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 904 1196 2880 1821">
+     <span class='ocr_line' id='line_1_1' title="bbox 1216 1196 1772 1335; baseline 0.002 -1; x_size 172.2; x_descenders 26.200001; x_ascenders 41.200001">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1216 1197 1609 1335; x_wconf 86'>TEIL</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1673 1196 1772 1335; x_wconf 96' lang='eng'>2</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 904 1420 2095 1566; baseline 0 -2; x_size 171.25; x_descenders 26.25; x_ascenders 40">
+      <span class='ocrx_word' id='word_1_3' title='bbox 904 1426 1160 1566; x_wconf 95'>Die</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1234 1420 2095 1566; x_wconf 96'>Methoden</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 950 1650 2880 1821; baseline 0.001 -26; x_size 171; x_descenders 26; x_ascenders 41">
+      <span class='ocrx_word' id='word_1_5' title='bbox 950 1650 1220 1795; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1290 1651 2049 1796; x_wconf 95'>Kontrolle</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

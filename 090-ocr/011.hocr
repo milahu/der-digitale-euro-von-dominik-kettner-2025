@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/011.tiff"; bbox 0 0 3123 4741; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 527 1599 3003 2014">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 527 1599 2489 1663">
+     <span class='ocr_line' id='line_1_1' title="bbox 527 1599 2489 1663; baseline 0.003 -13; x_size 71.07309; x_descenders 15.073091; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_1' title='bbox 527 1599 653 1654; x_wconf 89'>»Ich</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 683 1599 954 1655; x_wconf 92'>schwöre</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 982 1599 1076 1655; x_wconf 96'>bei</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1102 1601 1359 1655; x_wconf 96'>meinem</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1391 1599 1579 1655; x_wconf 96'>Leben</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1612 1599 1729 1655; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1757 1599 1859 1655; x_wconf 95'>der</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1884 1599 2051 1655; x_wconf 96'>Liebe</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 2077 1615 2151 1655; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 2180 1600 2306 1663; x_wconf 96'>ihm,</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 2341 1599 2489 1655; x_wconf 96'>dass</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 528 1713 2487 1770">
+     <span class='ocr_line' id='line_1_2' title="bbox 528 1713 2487 1770; baseline 0.001 -2; x_size 69.705452; x_descenders 14.705454; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_12' title='bbox 528 1714 616 1769; x_wconf 96'>ich</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 639 1714 888 1770; x_wconf 96'>niemals</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 912 1713 999 1769; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1016 1717 1182 1769; x_wconf 96'>einen</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1205 1714 1461 1769; x_wconf 96'>anderen</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1485 1714 1814 1769; x_wconf 96'>Menschen</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1837 1714 2004 1769; x_wconf 96'>leben</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 2030 1715 2220 1769; x_wconf 96'>werde</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 2243 1715 2359 1769; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 2381 1730 2487 1769; x_wconf 96'>von</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 527 1828 3003 2014">
+     <span class='ocr_line' id='line_1_3' title="bbox 527 1828 3003 1898; baseline 0 -15; x_size 70; x_descenders 15; x_ascenders 16">
+      <span class='ocrx_word' id='word_1_22' title='bbox 527 1829 755 1884; x_wconf 96'>keinem</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 781 1829 1110 1884; x_wconf 96'>Menschen</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1137 1829 1414 1898; x_wconf 96'>verlange,</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1443 1828 1591 1883; x_wconf 96'>dass</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1615 1844 1677 1884; x_wconf 96'>er</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1699 1828 1785 1884; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1803 1829 1958 1883; x_wconf 93'>mich</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1983 1829 2148 1884; x_wconf 89' lang='eng'>lebt.«</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2112 1937 2487 2014; baseline 0 -16; x_size 77; x_descenders 16; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_30' title='bbox 2112 1937 2259 2014; x_wconf 92'>(Ayn</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 2288 1938 2487 2014; x_wconf 95'>Rand)</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
