@@ -13,7 +13,7 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 405 838 2706 4455">
     <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 506 838 1964 1646">
      <span class='ocr_line' id='line_1_1' title="bbox 509 838 1238 945; baseline 0 -2; x_size 135.12247; x_descenders 31.122465; x_ascenders 33.707798">
-      <span class='ocrx_word' id='word_1_1' title='bbox 509 838 1238 945; x_wconf 91'>VORWORT</span>
+      <span class='ocrx_word' id='word_1_1' title='bbox 510 838 1239 945; x_wconf 91'>VORWORT</span>
      </span>
      <span class='ocr_line' id='line_1_2' title="bbox 506 1066 1964 1176; baseline 0.001 -2; x_size 145.42067; x_descenders 35.420673; x_ascenders 30">
       <span class='ocrx_word' id='word_1_2' title='bbox 506 1072 670 1174; x_wconf 96'>An</span>
@@ -224,7 +224,7 @@
      <span class='ocr_line' id='line_1_20' title="bbox 508 3639 2701 3720; baseline 0 -26; x_size 73; x_descenders 17; x_ascenders 18">
       <span class='ocrx_word' id='word_1_166' title='bbox 508 3639 667 3695; x_wconf 96'>noch</span>
       <span class='ocrx_word' id='word_1_167' title='bbox 695 3654 895 3711; x_wconf 92'>genug</span>
-      <span class='ocrx_word' id='word_1_168' title='bbox 922 3642 1469 3720; x_wconf 82' lang='eng'>CO,-Kontingent</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 922 3642 1469 3720; x_wconf 82' lang='eng'>CO<sub>2</sub>-Kontingent</span>
       <span class='ocrx_word' id='word_1_169' title='bbox 1493 3639 1709 3705; x_wconf 96'>haben,</span>
       <span class='ocrx_word' id='word_1_170' title='bbox 1737 3657 1842 3695; x_wconf 96'>um</span>
       <span class='ocrx_word' id='word_1_171' title='bbox 1868 3643 1930 3695; x_wconf 96'>in</span>
