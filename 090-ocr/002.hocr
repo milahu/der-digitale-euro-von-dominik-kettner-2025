@@ -215,7 +215,7 @@
       <span class='ocrx_word' id='word_1_158' title='bbox 1801 2517 1860 2554; x_wconf 95'>im</span>
       <span class='ocrx_word' id='word_1_159' title='bbox 1881 2517 2012 2555; x_wconf 96'>Sinne</span>
       <span class='ocrx_word' id='word_1_160' title='bbox 2031 2528 2118 2555; x_wconf 96'>von</span>
-      <span class='ocrx_word' id='word_1_161' title='bbox 2142 2516 2162 2562; x_wconf 93'>8</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 2142 2516 2162 2562; x_wconf 93'>§</span>
       <span class='ocrx_word' id='word_1_162' title='bbox 2184 2515 2270 2556; x_wconf 93'>44b</span>
       <span class='ocrx_word' id='word_1_163' title='bbox 2291 2516 2421 2556; x_wconf 93'>UrhG</span>
       <span class='ocrx_word' id='word_1_164' title='bbox 2442 2516 2677 2556; x_wconf 92'>ausdrück-</span>
@@ -277,7 +277,6 @@
       <span class='ocrx_word' id='word_1_212' title='bbox 2239 2886 2359 2926; x_wconf 96'>Sicht</span>
       <span class='ocrx_word' id='word_1_213' title='bbox 2379 2886 2454 2926; x_wconf 96'>des</span>
       <span class='ocrx_word' id='word_1_214' title='bbox 2473 2887 2679 2937; x_wconf 96'>Verlages</span>
-      <span class='ocrx_word' id='word_1_215' title='bbox 2975 2933 2978 2938; x_wconf 9'>;</span>
      </span>
      <span class='ocr_line' id='line_1_27' title="bbox 476 2954 2681 3008; baseline 0.002 -14; x_size 52; x_descenders 12; x_ascenders 13">
       <span class='ocrx_word' id='word_1_216' title='bbox 476 2954 622 2994; x_wconf 96'>bisher</span>
