@@ -35,8 +35,7 @@
       <span class='ocrx_word' id='word_1_13' title='bbox 424 666 519 724; x_wconf 96'>für</span>
       <span class='ocrx_word' id='word_1_14' title='bbox 542 670 785 725; x_wconf 93'>meinen</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 813 668 1201 725; x_wconf 92' lang='eng'>Sohnemann</span>
-      <span class='ocrx_word' id='word_1_16' title='bbox 1227 668 1549 726; x_wconf 0'>abholen.</span>
-      <span class='ocrx_word' id='word_1_17' title='bbox 1519 662 1554 746; x_wconf 40' lang='eng'>«</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1227 668 1549 726; x_wconf 0'>abholen.«</span>
      </span>
     </p>
 
@@ -164,10 +163,8 @@
 
     <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 546 2054 1202 2128">
      <span class='ocr_line' id='line_1_15' title="bbox 546 2054 1202 2128; baseline -0.002 -20; x_size 75; x_descenders 17; x_ascenders 18">
-      <span class='ocrx_word' id='word_1_103' title='bbox 546 2077 579 2108; x_wconf 88'>»</span>
-      <span class='ocrx_word' id='word_1_104' title='bbox 585 2054 974 2128; x_wconf 88'>Augenblick</span>
-      <span class='ocrx_word' id='word_1_105' title='bbox 995 2054 1202 2112; x_wconf 18'>bitte.</span>
-      <span class='ocrx_word' id='word_1_106' title='bbox 1171 2050 1206 2133; x_wconf 18'>«</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 545 2054 974 2128; x_wconf 88'>»Augenblick</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 995 2054 1202 2112; x_wconf 18'>bitte.«</span>
      </span>
     </p>
 
@@ -215,11 +212,10 @@
 
     <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 147 2508 2075 2587">
      <span class='ocr_line' id='line_1_19' title="bbox 147 2508 2075 2587; baseline -0.001 -16; x_size 73; x_descenders 16; x_ascenders 18">
-      <span class='ocrx_word' id='word_1_140' title='bbox 147 2508 149 2510; x_wconf 79'>|</span>
       <span class='ocrx_word' id='word_1_141' title='bbox 426 2514 617 2587; x_wconf 96' lang='deu'>grund</span>
       <span class='ocrx_word' id='word_1_142' title='bbox 642 2514 748 2571; x_wconf 92'>des</span>
       <span class='ocrx_word' id='word_1_143' title='bbox 774 2514 1011 2571; x_wconf 93' lang='deu'>Ladens</span>
-      <span class='ocrx_word' id='word_1_144' title='bbox 1037 2514 1261 2571; x_wconf 82'>sduselt</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1037 2514 1261 2571; x_wconf 82'>säuselt</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 1284 2514 1467 2570; x_wconf 96' lang='deu'>kaum</span>
       <span class='ocrx_word' id='word_1_146' title='bbox 1491 2514 1706 2571; x_wconf 90' lang='deu'>hörbar</span>
       <span class='ocrx_word' id='word_1_147' title='bbox 1731 2513 1837 2570; x_wconf 96'>das</span>
