@@ -163,8 +163,7 @@
 
     <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 416 1944 2615 2116">
      <span class='ocr_line' id='line_1_14' title="bbox 537 1944 2615 2018; baseline 0.001 -20; x_size 67; x_descenders 11; x_ascenders 17">
-      <span class='ocrx_word' id='word_1_113' title='bbox 537 1967 569 1998; x_wconf 93'>»</span>
-      <span class='ocrx_word' id='word_1_114' title='bbox 576 1948 687 2002; x_wconf 96'>Tut</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 538 1948 687 2002; x_wconf 96'>»Tut</span>
       <span class='ocrx_word' id='word_1_115' title='bbox 708 1948 821 2001; x_wconf 93'>mir</span>
       <span class='ocrx_word' id='word_1_116' title='bbox 842 1945 1023 2012; x_wconf 93'>leid«,</span>
       <span class='ocrx_word' id='word_1_117' title='bbox 1049 1956 1180 2018; x_wconf 96'>sagt</span>
@@ -359,7 +358,6 @@
       <span class='ocrx_word' id='word_1_248' title='bbox 683 3888 779 3944; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_249' title='bbox 805 3887 1024 3944; x_wconf 93'>Chefin</span>
       <span class='ocrx_word' id='word_1_250' title='bbox 1049 3888 1199 3944; x_wconf 92'>da?«</span>
-      <span class='ocrx_word' id='word_1_251' title='bbox 1377 3931 1379 3933; x_wconf 21'>|</span>
      </span>
     </p>
 
