@@ -17,22 +17,17 @@
       <span class='ocrx_word' id='word_1_2' title='bbox 513 242 734 306; x_wconf 96'>digitale</span>
       <span class='ocrx_word' id='word_1_3' title='bbox 761 244 892 292; x_wconf 96'>Euro</span>
      </span>
+     <!-- qrcode: https://kettner.shop/buch-selbstverteidigung -->
      <span class='ocr_line' id='line_1_2' title="bbox 573 640 2624 750; baseline 0 -52; x_size 69; x_descenders 14; x_ascenders 15">
-      <span class='ocrx_word' id='word_1_4' title='bbox 573 640 683 750; x_wconf 90' lang='eng'>[=]</span>
-      <span class='ocrx_word' id='word_1_5' title='bbox 704 663 901 743; x_wconf 29' lang='eng'>Tp</span>
-      <span class='ocrx_word' id='word_1_6' title='bbox 938 640 1047 749; x_wconf 91' lang='eng'>[=]</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 1148 647 1197 698; x_wconf 95' lang='eng'>In</span>
       <span class='ocrx_word' id='word_1_8' title='bbox 1226 644 1457 699; x_wconf 94' lang='eng'>diesem</span>
       <span class='ocrx_word' id='word_1_9' title='bbox 1489 644 1643 699; x_wconf 93' lang='eng'>Buch</span>
       <span class='ocrx_word' id='word_1_10' title='bbox 1671 646 1827 699; x_wconf 90' lang='eng'>wirst</span>
       <span class='ocrx_word' id='word_1_11' title='bbox 1853 644 1927 699; x_wconf 92' lang='eng'>du</span>
       <span class='ocrx_word' id='word_1_12' title='bbox 1955 644 2283 699; x_wconf 88' lang='eng'>zahlreiche</span>
-      <span class='ocrx_word' id='word_1_13' title='bbox 2312 646 2624 713; x_wconf 88' lang='eng'>Losungen</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 2312 646 2624 713; x_wconf 88' lang='eng'>Lösungen</span>
      </span>
      <span class='ocr_line' id='line_1_3' title="bbox 634 753 2627 869; baseline 0.001 -56; x_size 68; x_descenders 12; x_ascenders 16">
-      <span class='ocrx_word' id='word_1_14' title='bbox 634 757 704 825; x_wconf 26' lang='eng'>=.</span>
-      <span class='ocrx_word' id='word_1_15' title='bbox 732 753 957 869; x_wconf 24' lang='eng'>Shey</span>
-      <span class='ocrx_word' id='word_1_16' title='bbox 985 756 1042 798; x_wconf 53' lang='eng'>P=</span>
       <span class='ocrx_word' id='word_1_17' title='bbox 1144 775 1242 814; x_wconf 65'>zur</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 1276 759 1636 814; x_wconf 96'>finanziellen</span>
       <span class='ocrx_word' id='word_1_19' title='bbox 1677 759 1791 814; x_wconf 92' lang='eng'>und</span>
@@ -40,9 +35,6 @@
       <span class='ocrx_word' id='word_1_21' title='bbox 2167 759 2627 814; x_wconf 91' lang='eng'>Selbstverteidi-</span>
      </span>
      <span class='ocr_line' id='line_1_4' title="bbox 592 847 2624 976; baseline 0.005 -57; x_size 70; x_descenders 15; x_ascenders 16">
-      <span class='ocrx_word' id='word_1_22' title='bbox 592 852 690 918; x_wconf 12' lang='eng'>hrs</span>
-      <span class='ocrx_word' id='word_1_23' title='bbox 728 847 985 976; x_wconf 31' lang='eng'>refi:</span>
-      <span class='ocrx_word' id='word_1_24' title='bbox 1013 850 1041 879; x_wconf 27' lang='eng'>a</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 1144 890 1301 944; x_wconf 92' lang='eng'>gung</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 1330 874 1775 930; x_wconf 91' lang='eng'>kennenlernen.</span>
       <span class='ocrx_word' id='word_1_27' title='bbox 1805 877 1964 930; x_wconf 95' lang='eng'>Denn</span>
@@ -56,7 +48,7 @@
       <span class='ocrx_word' id='word_1_33' title='bbox 1291 1005 1391 1045; x_wconf 96' lang='eng'>vor</span>
       <span class='ocrx_word' id='word_1_34' title='bbox 1411 990 1523 1045; x_wconf 92' lang='eng'>den</span>
       <span class='ocrx_word' id='word_1_35' title='bbox 1547 990 1815 1059; x_wconf 92' lang='eng'>digitalen</span>
-      <span class='ocrx_word' id='word_1_36' title='bbox 1841 981 2197 1060; x_wconf 92' lang='eng'>Ubergriffen</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1841 981 2197 1060; x_wconf 92' lang='eng'>Übergriffen</span>
       <span class='ocrx_word' id='word_1_37' title='bbox 2220 990 2321 1045; x_wconf 93' lang='eng'>der</span>
       <span class='ocrx_word' id='word_1_38' title='bbox 2343 990 2626 1046; x_wconf 92' lang='eng'>Drahtzie-</span>
      </span>
@@ -86,7 +78,7 @@
       <span class='ocrx_word' id='word_1_57' title='bbox 780 1337 892 1392; x_wconf 93' lang='eng'>den</span>
       <span class='ocrx_word' id='word_1_58' title='bbox 924 1337 1191 1406; x_wconf 91' lang='eng'>digitalen</span>
       <span class='ocrx_word' id='word_1_59' title='bbox 1225 1339 1365 1392; x_wconf 93' lang='eng'>Euro</span>
-      <span class='ocrx_word' id='word_1_60' title='bbox 1394 1337 1643 1400; x_wconf 89' lang='eng'>schutzt,</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1394 1337 1643 1400; x_wconf 89' lang='eng'>schützt,</span>
       <span class='ocrx_word' id='word_1_61' title='bbox 1675 1337 1888 1392; x_wconf 96' lang='eng'>kannst</span>
       <span class='ocrx_word' id='word_1_62' title='bbox 1917 1337 1990 1393; x_wconf 95' lang='eng'>du</span>
       <span class='ocrx_word' id='word_1_63' title='bbox 2022 1337 2138 1393; x_wconf 95' lang='eng'>hier</span>
