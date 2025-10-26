@@ -119,7 +119,7 @@
      <span class='ocr_line' id='line_1_11' title="bbox 479 2149 2677 2209; baseline -0 -13; x_size 59; x_descenders 13; x_ascenders 14">
       <span class='ocrx_word' id='word_1_85' title='bbox 479 2150 709 2209; x_wconf 96'>digitalen</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 732 2152 884 2196; x_wconf 96' lang='eng'>Euros</span>
-      <span class='ocrx_word' id='word_1_87' title='bbox 908 2149 984 2196; x_wconf 96' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 908 2149 984 2196; x_wconf 96' lang='eng'>für</span>
       <span class='ocrx_word' id='word_1_88' title='bbox 1006 2150 1084 2196; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_89' title='bbox 1108 2152 1290 2209; x_wconf 96'>Bürger</span>
       <span class='ocrx_word' id='word_1_90' title='bbox 1310 2149 1512 2196; x_wconf 95'>besteht.</span>
@@ -203,7 +203,6 @@
       <span class='ocrx_word' id='word_1_156' title='bbox 2220 2948 2372 2995; x_wconf 89'>darf.«</span>
      </span>
      <span class='ocr_line' id='line_1_18' title="bbox 188 3035 2676 3105; baseline 0 -15; x_size 59; x_descenders 13; x_ascenders 14">
-      <span class='ocrx_word' id='word_1_157' title='bbox 188 3035 190 3037; x_wconf 77' lang='eng'>|</span>
       <span class='ocrx_word' id='word_1_158' title='bbox 599 3050 740 3093; x_wconf 91' lang='eng'>»Was</span>
       <span class='ocrx_word' id='word_1_159' title='bbox 764 3047 928 3093; x_wconf 96' lang='eng'>online</span>
       <span class='ocrx_word' id='word_1_160' title='bbox 952 3049 1038 3093; x_wconf 96' lang='eng'>mit</span>
@@ -223,7 +222,7 @@
       <span class='ocrx_word' id='word_1_172' title='bbox 1068 3146 1229 3187; x_wconf 89' lang='eng'>waren</span>
       <span class='ocrx_word' id='word_1_173' title='bbox 1246 3142 1395 3187; x_wconf 93' lang='eng'>damit</span>
       <span class='ocrx_word' id='word_1_174' title='bbox 1413 3142 1768 3199; x_wconf 93'>grundsätzlich</span>
-      <span class='ocrx_word' id='word_1_175' title='bbox 1785 3141 2253 3198; x_wconf 79' lang='eng'>zuriickverfolgbar,</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 1785 3141 2253 3198; x_wconf 79' lang='eng'>zurückverfolgbar,</span>
       <span class='ocrx_word' id='word_1_176' title='bbox 2273 3149 2377 3198; x_wconf 96' lang='eng'>sagt</span>
       <span class='ocrx_word' id='word_1_177' title='bbox 2389 3143 2530 3186; x_wconf 91' lang='eng'>Anna</span>
       <span class='ocrx_word' id='word_1_178' title='bbox 2548 3144 2675 3186; x_wconf 91' lang='eng'>Mar-</span>
@@ -237,7 +236,7 @@
       <span class='ocrx_word' id='word_1_184' title='bbox 1876 3234 1945 3287; x_wconf 96' lang='eng'>[4]</span>
      </span>
      <span class='ocr_line' id='line_1_21' title="bbox 480 3552 2672 3610; baseline 0.001 -15; x_size 58; x_descenders 13; x_ascenders 14">
-      <span class='ocrx_word' id='word_1_185' title='bbox 480 3553 810 3599; x_wconf 83' lang='eng'>»SchlieBlich</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 480 3553 810 3599; x_wconf 83' lang='eng'>»Schließlich</span>
       <span class='ocrx_word' id='word_1_186' title='bbox 826 3555 887 3598; x_wconf 96' lang='eng'>ist</span>
       <span class='ocrx_word' id='word_1_187' title='bbox 903 3553 963 3598; x_wconf 96' lang='eng'>da</span>
       <span class='ocrx_word' id='word_1_188' title='bbox 981 3553 1107 3598; x_wconf 96' lang='eng'>noch</span>
@@ -263,7 +262,7 @@
       <span class='ocrx_word' id='word_1_206' title='bbox 1872 3649 1979 3692; x_wconf 93' lang='eng'>eine</span>
       <span class='ocrx_word' id='word_1_207' title='bbox 2003 3646 2262 3692; x_wconf 92' lang='eng'>ernsthafte</span>
       <span class='ocrx_word' id='word_1_208' title='bbox 2285 3646 2577 3704; x_wconf 92' lang='eng'>Bedrohung</span>
-      <span class='ocrx_word' id='word_1_209' title='bbox 2600 3646 2675 3692; x_wconf 96' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_209' title='bbox 2600 3646 2675 3692; x_wconf 96' lang='eng'>für</span>
      </span>
      <span class='ocr_line' id='line_1_23' title="bbox 479 3742 1252 3801; baseline -0.004 -13; x_size 59; x_descenders 13; x_ascenders 14">
       <span class='ocrx_word' id='word_1_210' title='bbox 479 3742 557 3788; x_wconf 93' lang='eng'>die</span>
