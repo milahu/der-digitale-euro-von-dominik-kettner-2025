@@ -60,10 +60,10 @@ so aufbereitet, dass es sogar sein sechsjähriger Sohn versteht.
 
 ## scans
 
-### TODO_BOOK_TORRENT_NAME
+### der.digitale.euro.von.dominik.kettner.2025.german.book.scan.600dpi.deskew.tiff
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:cec62fa5dc42364bef29ebca6393db04c7f9f523&dn=der.digitale.euro.von.dominik.kettner.2025.german.book.scan.600dpi.deskew.tiff&xl=874377732&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## epub
