@@ -66,6 +66,10 @@ so aufbereitet, dass es sogar sein sechsjähriger Sohn versteht.
 TODO_BOOK_TORRENT_MAGNET_LINK
 ```
 
+## epub
+
+- [github.com/milahu/der-digitale-euro-von-dominik-kettner-2025-epub](https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025-epub)
+
 ## mirrors
 
 - https://github.com/milahu/der-digitale-euro-von-dominik-kettner-2025
