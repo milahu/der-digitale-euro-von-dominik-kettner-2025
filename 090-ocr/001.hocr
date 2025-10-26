@@ -16,9 +16,14 @@
       <span class='ocrx_word' id='word_1_1' title='bbox 798 222 1489 329; x_wconf 93'>DOMINIK</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 1554 225 2278 331; x_wconf 92'>KETTNER</span>
      </span>
+     <span class='ocr_line' id='line_1_1a'>
+      <span class='ocrx_word' id='word_1_1a' title='bbox 1278 426 1790 689; x_wconf 93'>DER</span>
+      <span class='ocrx_word' id='word_1_2a' title='bbox 278 759 2794 1324; x_wconf 92'>DIGITALE</span>
+      <span class='ocrx_word' id='word_1_3a' title='bbox 799 1386 2270 1962; x_wconf 92'>EURO</span>
+     </span>
      <span class='ocr_line' id='line_1_2' title="bbox 283 2058 2775 2153; baseline -0.001 0; x_size 87.5; x_descenders 18.76923; x_ascenders 18.23077">
       <span class='ocrx_word' id='word_1_3' title='bbox 283 2079 452 2152; x_wconf 93'>DIE</span>
-      <span class='ocrx_word' id='word_1_4' title='bbox 500 2058 952 2153; x_wconf 90' lang='eng'>GROBTE</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 500 2058 952 2153; x_wconf 90' lang='eng'>GRÖßTE</span>
       <span class='ocrx_word' id='word_1_5' title='bbox 1002 2077 1738 2152; x_wconf 92'>ENTEIGNUNG</span>
       <span class='ocrx_word' id='word_1_6' title='bbox 1788 2078 1999 2151; x_wconf 96'>DER</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 2044 2077 2775 2151; x_wconf 96'>GESCHICHTE</span>
